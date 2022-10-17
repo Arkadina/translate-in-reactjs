@@ -11,7 +11,7 @@ You can see my summary <a href="https://github.com/Arkadina/notes/blob/main/java
 
 ## Libraries
 
-i18next, react-i18next & flag-icons
+i18next, react-i18next & flag-icons.
 
 ## Start server
 
