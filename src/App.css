@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #1a191a;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+}
+
+.idiom-text {
+    width: 400px;
+    height: 200x;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.idiom-text p:first-child {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.idiom-text p {
+    margin: 5px;
+}
+
+.idiom-change-button span {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
